@@ -1,6 +1,6 @@
 ##  MyMultiModuleProject
 
-### Purpose - to build and package child modules into a zip in a target folder at parent level
+### Purpose - to build and package child modules into a zip at parent level
 
 #### **Run below command from parent dir to build child modules and package them into a zip**
 
