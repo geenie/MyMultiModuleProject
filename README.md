@@ -7,10 +7,10 @@
 #### mvn package assembly:single
 
 #### Expecting output
-MyMultiModuleProject/
-├── module1/
-│   ├── module1.jar
-├── module2/
-│   ├── module2.jar
-├── target/
-│   ├──MyMultiModuleProject.zip --> this should contain module1.jar and module2.jar 
+MyMultiModuleProject/ <br />
+├── module1/ <br />
+│   ├── module1.jar <br />
+├── module2/ <br />
+│   ├── module2.jar <br />
+├── target/ <br />
+│   ├──MyMultiModuleProject.zip --> this should contain module1.jar and module2.jar <br />
