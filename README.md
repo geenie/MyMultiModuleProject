@@ -7,7 +7,7 @@
 #### mvn package assembly:single
 
 #### Expecting output
-MyMultiModuleProject/ <br />
+MyMultiModuleProject/\
 ├── module1/ <br />
 │   ├── module1.jar <br />
 ├── module2/ <br />
